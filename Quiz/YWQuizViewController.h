@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  YWQuizViewController.h
 //  Quiz
 //
 //  Created by Michael Sacks on 3/28/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface YWQuizViewController : UIViewController
 
 @end
-
